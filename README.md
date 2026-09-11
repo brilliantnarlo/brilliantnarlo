@@ -1,5 +1,3 @@
 I’m a Senior Software Engineer and systems engineer working across software, hardware, and computing architecture. My work spans backend engineering, distributed systems, DevOps, native iOS/Android applications, simulation systems, FPGA/ASIC architecture, sensor engineering, analog IC design, and supervised neural networks.
 
 I’m particularly interested in building systems from the lowest hardware and processor levels up through backend infrastructure and user-facing applications. My current engineering areas include microcontroller and microprocessor architecture, graphics controllers, networking hardware, VR/XR systems, electronic design tools, computational biology software, and modern graphics-engine research.
-
-Core technologies: Go • Java • Python • C++ • Qt6 • Verilog • Linux • Docker • FPGA • Embedded Systems
